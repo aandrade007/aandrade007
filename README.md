@@ -1,16 +1,25 @@
-## Hi there 👋
+### Olá pessoal, eu sou o Davi Andrade! 👋
 
-<!--
-**aandrade007/aandrade007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Segue alguns tópicos sobre mim:
 
-Here are some ideas to get you started:
+- 🎓 Formado em **Técnico em Automação Industrial.**
+- 📚 Estudante em **Análise e Desenvolvimento de Sistemas** pela Fatec de São José dos Campos.
+- 💻 Aprendendo **Python e Java**.
+- 🤝 Colaborando em projetos de **API's integrado a banco de dados.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aandrade007&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aandrade007&layout=compact&theme=dark)
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Davi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>         
+</div>
+<br>
+<div> 
+  <a href="https://www.linkedin.com/in/daviandrade007/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:amanciodavi2007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
