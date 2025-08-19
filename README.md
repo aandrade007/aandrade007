@@ -4,7 +4,7 @@ Segue alguns tópicos sobre mim:
 
 - 🎓 Formado em **Técnico em Automação Industrial.**
 - 📚 Estudante em **Análise e Desenvolvimento de Sistemas** pela Fatec de São José dos Campos.
-- 💻 Aprendendo **Python e Java**.
+- 💻 Aprendendo **Python e Java** entre outras tecnologias.
 - 🤝 Colaborando em projetos de **API's integrado a banco de dados.**
 
 
