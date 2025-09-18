@@ -25,6 +25,7 @@ Segue alguns tópicos sobre mim:
   <img align="center" alt="Davi-Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/> 
   <img align="center" alt="Davi-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  />
   <img align="center" alt="Davi-Php" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+   <img align="center" alt="Davi-Docker" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   
 </div>
 <br>
