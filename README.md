@@ -13,6 +13,15 @@ Segue alguns tópicos sobre mim:
 - 💻 Aprendendo **Python e Java** entre outras tecnologias.
 - 🤝 Colaborando em projetos de **API's integrado a banco de dados.**
 
+<br>
+
+<div >
+    <a>
+        <img src="https://github-profile-trophy.vercel.app/?username=aandrade007&hide_border=true&no-bg=true&theme=tokyonight&no-frame=true&column=4&rank=-?&title=-Stars,-Followers,-Repositories&margin-h=5&margin-w=5"
+    </a>
+</div>
+
+<br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aandrade007&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aandrade007&layout=compact&theme=dark)
