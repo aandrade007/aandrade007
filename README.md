@@ -12,9 +12,9 @@ Segue alguns tópicos sobre mim:
 - 📚 Estudante em **Análise e Desenvolvimento de Sistemas** pela Fatec de São José dos Campos.
 - 💻 Aprendendo **Python e Java** entre outras tecnologias.
 - 🤝 Colaborando em projetos de **API's integrado a banco de dados.**
+<br>
 
- **Acesse o portfólio online:**  
-👉 [https://portifolio-cs6u.vercel.app/](https://portifolio-cs6u.vercel.app/)
+🌐 Veja meu portfólio web: <a href="https://portifolio-cs6u.vercel.app/" target="_blank" rel="noopener noreferrer">Portfólio</a>
 
 <br>
 
