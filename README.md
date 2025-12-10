@@ -13,6 +13,9 @@ Segue alguns tópicos sobre mim:
 - 💻 Aprendendo **Python e Java** entre outras tecnologias.
 - 🤝 Colaborando em projetos de **API's integrado a banco de dados.**
 
+ **Acesse o portfólio online:**  
+👉 [https://portifolio-cs6u.vercel.app/](https://portifolio-cs6u.vercel.app/)
+
 <br>
 
 <div >
