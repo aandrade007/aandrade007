@@ -18,17 +18,6 @@ Segue alguns tópicos sobre mim:
 
 <br>
 
-<div >
-    <a>
-        <img src="https://github-profile-trophy.vercel.app/?username=aandrade007&hide_border=true&no-bg=true&theme=tokyonight&no-frame=true&column=4&rank=-?&title=-Stars,-Followers,-Repositories&margin-h=5&margin-w=5"
-    </a>
-</div>
-
-<br><br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aandrade007&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aandrade007&layout=compact&theme=dark)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
