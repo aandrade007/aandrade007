@@ -14,7 +14,7 @@ Segue alguns tópicos sobre mim:
 - 🤝 Colaborando em projetos de **API's integrado a banco de dados.**
 <br>
 
-🌐 Veja meu portfólio web: <a href="https://portifolio-cs6u.vercel.app/" target="_blank" rel="noopener noreferrer">Portfólio</a>
+🌐 Veja meu portfólio web: <a href="https://aandrade007.github.io/Portifolio/" target="_blank" rel="noopener noreferrer">Portfólio</a>
 
 <br>
 
